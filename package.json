@@ -4,10 +4,14 @@
   "description": "A modified Darcula theme with better colors and minimal eye strain",
   "version": "1.0.0",
   "publisher": "Dwarakesh",
+  "repository": "https://github.com/Dwarakesh-V/darcula-zen",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
