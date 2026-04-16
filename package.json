@@ -1,0 +1,20 @@
+{
+  "name": "darcula-zen",
+  "displayName": "Darcula Zen",
+  "description": "A modified Darcula theme with better colors and minimal eye strain",
+  "version": "1.0.0",
+  "publisher": "Dwarakesh",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darcula-Zen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darcula-zen.json"
+      }
+    ]
+  }
+}
